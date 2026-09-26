@@ -31,6 +31,11 @@
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-05122A?style=flat-square&logo=githubactions&logoColor=2088FF)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git&logoColor=F05032)
 
+### 🚀 &nbsp;Featured Project
+
+**[Assignment-4-db](https://github.com/Penkalatte00700/Assignment-4-db)** — relational database design for an auto service center *(coursework project)*.
+PostgreSQL schema covering clients, cars, mechanics, repairs, parts and loyalty cards, with stored procedures and triggers, plus Python (psycopg2) scripts for seeding and querying the data.
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
