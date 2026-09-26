@@ -1,128 +1,36 @@
-<div align="center">
+<h2 align="center">Hey there! I'm Nazarii 👋</h2>
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · penkalatte00700</sub></p>
-<h1>penkalatte00700</h1>
-<h2>Junior Software Engineer</h2>
-<p>Student at KSE, learning to build useful software and sharing the work in public.</p>
-<p><strong>● Open to junior software engineering roles</strong></p>
+### 👨🏻‍💻 &nbsp;About Me
 
-<p>
-<a href="https://github.com/penkalatte00700">GitHub</a> ·
-<a href="mailto:zarapenin2007@gmail.com">Email</a> ·
-<a href="https://t.me/npenin">Telegram</a> ·
-<a href="https://www.linkedin.com/in/nazarii-penin-992513263">LinkedIn</a>
-</p>
-</td>
-<td width="36%" valign="middle" align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/portrait?username=penkalatte00700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144267387%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/portrait?username=penkalatte00700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144267387%3Fv%3D4&color=1&v=recruiter-portrait-1&mode=dark" width="240px" alt="penkalatte00700 animated colored ASCII portrait" />
-</picture>
-</td>
-</tr>
-</table>
-</div>
+💡 &nbsp;I like exploring new technologies and building useful software, from backend services to systems-level code.\
+🎓 &nbsp;I'm currently a student at the Kyiv School of Economics (KSE).\
+🌱 &nbsp;I'm learning more about backend development, systems programming, and databases.\
+💬 &nbsp;Feel free to reach out about junior roles, internships, or just to talk tech.\
+✉️ &nbsp;You can email me at zarapenin2007@gmail.com — I'll try to respond as soon as I can.
 
-<h2>What teams can evaluate quickly</h2>
+### 🛠 &nbsp;Tech Stack
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Junior Software Engineer · C++ · C# · Python</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>13 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>51 contributions · 16 active days</p></td>
-</tr>
-</table>
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)\
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-<h2>About me</h2>
-
-<p>Student at KSE (Kyiv School of Economics), building practical software and coursework projects as I go. Currently focused on backend and systems-adjacent work, and looking for a junior engineering role or internship where I can keep learning while contributing real code.</p>
-
-<h2>Proof at a glance</h2>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>13</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>51</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=penkalatte00700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144267387%3Fv%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=penkalatte00700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144267387%3Fv%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="penkalatte00700 GitHub proof metrics" />
-</picture>
+<a href="https://github.com/penkalatte00700">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penkalatte00700&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penkalatte00700&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=penkalatte00700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144267387%3Fv%3D4&repos=penkalatte00700%2FPenkalatte00700%2Cpenkalatte00700%2FA5%2Cpenkalatte00700%2FAssignment-4-db%2Cpenkalatte00700%2FPLPP-Assignment4&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=penkalatte00700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144267387%3Fv%3D4&repos=penkalatte00700%2FPenkalatte00700%2Cpenkalatte00700%2FA5%2Cpenkalatte00700%2FAssignment-4-db%2Cpenkalatte00700%2FPLPP-Assignment4&v=recruiter-projects-1&mode=dark" width="100%" alt="penkalatte00700 selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/Penkalatte00700/Penkalatte00700">Penkalatte00700</a></h3>
-<p>A selected public project.</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/Penkalatte00700/Penkalatte00700">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/Penkalatte00700/A5">A5</a></h3><p>A selected public project.</p><p><sub>C++ · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Penkalatte00700/Assignment-4-db">Assignment-4-db</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/Penkalatte00700/PLPP-Assignment4">PLPP-Assignment4</a></h3><p>A selected public project.</p><p><sub>C++ · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=penkalatte00700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144267387%3Fv%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=penkalatte00700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144267387%3Fv%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="penkalatte00700 technology stack" />
-</picture>
+<a href="mailto:zarapenin2007@gmail.com"><img src="https://img.shields.io/badge/-zarapenin2007@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://t.me/npenin"><img src="https://img.shields.io/badge/-@npenin-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/nazarii-penin-992513263"><img src="https://img.shields.io/badge/-Nazarii%20Penin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
-
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>C++</strong><br /><sub>45% of public code</sub></td>
-<td width="25%" align="center"><strong>C#</strong><br /><sub>14% of public code</sub></td>
-<td width="25%" align="center"><strong>Python</strong><br /><sub>11% of public code</sub></td>
-<td width="25%" align="center"><strong>PLpgSQL</strong><br /><sub>7% of public code</sub></td>
-</tr>
-</table>
-
-<h2>Consistency signal</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=penkalatte00700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144267387%3Fv%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=penkalatte00700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144267387%3Fv%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="penkalatte00700 contribution activity" />
-</picture>
-</p>
-
-<hr />
-
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next opportunity</h2><p>Open to junior software engineering roles, internships, and ambitious learning projects.</p></td>
-<td width="38%" valign="middle" align="right">
-<a href="mailto:zarapenin2007@gmail.com">Email</a> ·
-<a href="https://t.me/npenin">Telegram</a> ·
-<a href="https://www.linkedin.com/in/nazarii-penin-992513263">LinkedIn</a>
-</td>
-</tr>
-</table>
-
-<p align="center"><sub>penkalatte00700 · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
