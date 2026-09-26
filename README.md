@@ -38,6 +38,9 @@
 **[Colorist](https://github.com/IvanIvchatov/colorist-showcase)** — e-commerce platform for a professional cosmetics brand *(real client, co-developed with a teammate)*.
 Catalog with interactive shade palettes, cart and payments, customer wallet, admin panel with audit log, Docker deployment to a VPS and CI.
 
+**[Quiz Site](https://github.com/peninnazarii/quiz_site)** — Django-based online exam/testing platform.
+Timed access codes with auto-close on expiry, auto-grading, PDF certificate/protocol generation, role-based admin permissions, and PostgreSQL deployment with Gunicorn/Nginx.
+
 **[Assignment-4-db](https://github.com/peninnazarii/Assignment-4-db)** — relational database design for an auto service center *(coursework project)*.
 PostgreSQL schema covering clients, cars, mechanics, repairs, parts and loyalty cards, with stored procedures and triggers, plus Python (psycopg2) scripts for seeding and querying the data.
 
