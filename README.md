@@ -38,15 +38,15 @@
 **[Colorist](https://github.com/IvanIvchatov/colorist-showcase)** — e-commerce platform for a professional cosmetics brand *(real client, co-developed with a teammate)*.
 Catalog with interactive shade palettes, cart and payments, customer wallet, admin panel with audit log, Docker deployment to a VPS and CI.
 
-**[Assignment-4-db](https://github.com/Penkalatte00700/Assignment-4-db)** — relational database design for an auto service center *(coursework project)*.
+**[Assignment-4-db](https://github.com/peninnazarii/Assignment-4-db)** — relational database design for an auto service center *(coursework project)*.
 PostgreSQL schema covering clients, cars, mechanics, repairs, parts and loyalty cards, with stored procedures and triggers, plus Python (psycopg2) scripts for seeding and querying the data.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/penkalatte00700">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penkalatte00700&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penkalatte00700&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/peninnazarii">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=peninnazarii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=peninnazarii&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
