@@ -5,11 +5,16 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · penkalatte00700</sub></p>
 <h1>penkalatte00700</h1>
-<h2>Backend or systems engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<h2>Junior Software Engineer</h2>
+<p>Student at KSE, learning to build useful software and sharing the work in public.</p>
+<p><strong>● Open to junior software engineering roles</strong></p>
 
-<p><a href="https://github.com/penkalatte00700">GitHub</a></p>
+<p>
+<a href="https://github.com/penkalatte00700">GitHub</a> ·
+<a href="mailto:zarapenin2007@gmail.com">Email</a> ·
+<a href="https://t.me/npenin">Telegram</a> ·
+<a href="https://www.linkedin.com/in/nazarii-penin-992513263">LinkedIn</a>
+</p>
 </td>
 <td width="36%" valign="middle" align="center">
 <picture>
@@ -25,13 +30,15 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Backend or systems engineer · C++ · C · C#</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Junior Software Engineer · C++ · C# · Python</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>13 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>51 contributions · 16 active days</p></td>
 </tr>
 </table>
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+<h2>About me</h2>
+
+<p>Student at KSE (Kyiv School of Economics), building practical software and coursework projects as I go. Currently focused on backend and systems-adjacent work, and looking for a junior engineering role or internship where I can keep learning while contributing real code.</p>
 
 <h2>Proof at a glance</h2>
 
@@ -89,11 +96,10 @@
 
 <table width="100%">
 <tr>
-<td width="20%" align="center"><strong>C++</strong><br /><sub>45% of public code</sub></td>
-<td width="20%" align="center"><strong>C</strong><br /><sub>17% of public code</sub></td>
-<td width="20%" align="center"><strong>C#</strong><br /><sub>14% of public code</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>11% of public code</sub></td>
-<td width="20%" align="center"><strong>PLpgSQL</strong><br /><sub>7% of public code</sub></td>
+<td width="25%" align="center"><strong>C++</strong><br /><sub>45% of public code</sub></td>
+<td width="25%" align="center"><strong>C#</strong><br /><sub>14% of public code</sub></td>
+<td width="25%" align="center"><strong>Python</strong><br /><sub>11% of public code</sub></td>
+<td width="25%" align="center"><strong>PLpgSQL</strong><br /><sub>7% of public code</sub></td>
 </tr>
 </table>
 
@@ -110,8 +116,12 @@
 
 <table width="100%">
 <tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/penkalatte00700">GitHub</a></td>
+<td width="62%" valign="middle"><h2>Let’s talk about the next opportunity</h2><p>Open to junior software engineering roles, internships, and ambitious learning projects.</p></td>
+<td width="38%" valign="middle" align="right">
+<a href="mailto:zarapenin2007@gmail.com">Email</a> ·
+<a href="https://t.me/npenin">Telegram</a> ·
+<a href="https://www.linkedin.com/in/nazarii-penin-992513263">LinkedIn</a>
+</td>
 </tr>
 </table>
 
