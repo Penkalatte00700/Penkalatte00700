@@ -1,0 +1,36 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hey there, I'm Nazarii">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05122A"/>
+      <stop offset="55%" stop-color="#0B1F3A"/>
+      <stop offset="100%" stop-color="#123457"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="82%" cy="20%" r="60%">
+      <stop offset="0%" stop-color="#4FC3F7" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#4FC3F7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#bg)"/>
+  <rect width="1200" height="280" fill="url(#grid)"/>
+  <rect width="1200" height="280" fill="url(#glow)"/>
+
+  <circle cx="1080" cy="60" r="4" fill="#61DAFB" opacity="0.8"/>
+  <circle cx="1130" cy="120" r="3" fill="#F7DF1E" opacity="0.7"/>
+  <circle cx="1000" cy="200" r="5" fill="#00599C" opacity="0.6"/>
+  <circle cx="1150" cy="220" r="3" fill="#4169E1" opacity="0.7"/>
+  <circle cx="60" cy="40" r="3" fill="#239120" opacity="0.6"/>
+  <circle cx="120" cy="230" r="4" fill="#26A5E4" opacity="0.6"/>
+
+  <text x="90" y="140" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="700" fill="#F5F7FA">
+    Hey there, I'm Nazarii <tspan font-size="48">👋</tspan>
+  </text>
+  <text x="92" y="182" font-family="'Segoe UI', Arial, sans-serif" font-size="24" font-weight="400" fill="#9FB3C8">
+    Junior Software Engineer · KSE Student · Backend &amp; Systems
+  </text>
+
+  <line x1="92" y1="205" x2="420" y2="205" stroke="#4FC3F7" stroke-width="3" stroke-linecap="round"/>
+</svg>

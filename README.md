@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! I'm Nazarii 👋</h2>
+![Nazarii Penin banner](./assets/banner.svg)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
