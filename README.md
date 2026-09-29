@@ -56,6 +56,6 @@ Timed access codes with auto-close on expiry, auto-grading, PDF certificate/prot
 
 <p align="center">
 <a href="mailto:zarapenin2007@gmail.com"><img src="https://img.shields.io/badge/-zarapenin2007@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://t.me/npenin"><img src="https://img.shields.io/badge/-@npenin-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
+<a href="https://t.me/npeninn"><img src="https://img.shields.io/badge/-@npeninn-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/nazarii-penin-992513263"><img src="https://img.shields.io/badge/-Nazarii%20Penin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
